@@ -5,6 +5,9 @@ import makemodel
 import reviewprocessing
 import pandas as pd
 import statistics
+import nltk
+
+nltk.download('punkt')
 
 #initialize application with Bootstrap
 app=Flask(__name__, static_url_path='/static')
