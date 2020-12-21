@@ -17,7 +17,7 @@ flask-bootstrap4 == 4.0.2
 gensim == 3.7.0
 
 # makemodel.py: 18
-nltk == 3.4
+nltk == 3.4.5
 
 # makemodel.py: 6
 # reviewprocessing.py: 2
